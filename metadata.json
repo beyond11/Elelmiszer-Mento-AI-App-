@@ -1,0 +1,6 @@
+{
+  "name": "Élelmiszer-Mentő AI",
+  "description": "AI-alapú alkalmazás az élelmiszer-pazarlás csökkentésére: közeli bolti akciók, adományozási pontok térképe, ételmaradék-elemzés receptekkel és ökológiai lábnyom-kalkulátor.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
