@@ -16,6 +16,11 @@ Ez az AI app olyan funkciókkal bír, mint például:
 
 Próbálja ki, ismerje meg az AI App funkcióit és ha hasznosnak találja. 
 
+AI App: https://lelmiszer-ment-ai-245143460856.europe-west2.run.app/
+
 Blog: https://appwebaruhazoptimalizalas.blog.hu/2026/07/05/uzleti-problemak-megoldasa-ai-eszkozokkel
 
 Referencia: https://aikihivas.hu/szavazas
+
+<img width="1659" height="760" alt="image" src="https://github.com/user-attachments/assets/90de5f32-0bb8-4d75-96fb-f794671eb4f6" />
+
