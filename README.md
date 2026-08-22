@@ -18,7 +18,7 @@ Ez az AI app olyan funkciókkal bír, mint például:
 
 🔹 AI Ételmentő Konyha, aminek segítségével a Gemini AI azonnal összeállít egy heti recepttervet részletes elkészítési útmutatókkal!
 
-Próbálja ki, ismerje meg az AI App funkcióit és ha hasznosnak találja. 
+Próbálja ki, ismerje meg az AI App hasznos funkcióit. 
 
 AI App: https://lelmiszer-ment-ai-245143460856.europe-west2.run.app/
 
